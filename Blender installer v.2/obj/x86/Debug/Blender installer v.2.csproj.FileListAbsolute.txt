@@ -1,0 +1,12 @@
+c:\users\stu_lab\documents\visual studio 2010\Projects\Blender installer v.2\Blender installer v.2\obj\x86\Debug\Blender_installer_v._2.Form1.resources
+c:\users\stu_lab\documents\visual studio 2010\Projects\Blender installer v.2\Blender installer v.2\obj\x86\Debug\Blender installer v.2.csproj.GenerateResource.Cache
+c:\users\stu_lab\documents\visual studio 2010\Projects\Blender installer v.2\Blender installer v.2\bin\Debug\installer-Blender.exe.manifest
+c:\users\stu_lab\documents\visual studio 2010\Projects\Blender installer v.2\Blender installer v.2\bin\Debug\installer-Blender.application
+c:\users\stu_lab\documents\visual studio 2010\Projects\Blender installer v.2\Blender installer v.2\bin\Debug\installer-Blender.exe
+c:\users\stu_lab\documents\visual studio 2010\Projects\Blender installer v.2\Blender installer v.2\bin\Debug\installer-Blender.pdb
+c:\users\stu_lab\documents\visual studio 2010\Projects\Blender installer v.2\Blender installer v.2\obj\x86\Debug\Blender_installer.Properties.Resources.resources
+c:\users\stu_lab\documents\visual studio 2010\Projects\Blender installer v.2\Blender installer v.2\obj\x86\Debug\installer-Blender.exe.manifest
+c:\users\stu_lab\documents\visual studio 2010\Projects\Blender installer v.2\Blender installer v.2\obj\x86\Debug\installer-Blender.application
+c:\users\stu_lab\documents\visual studio 2010\Projects\Blender installer v.2\Blender installer v.2\obj\x86\Debug\installer-Blender.exe
+c:\users\stu_lab\documents\visual studio 2010\Projects\Blender installer v.2\Blender installer v.2\obj\x86\Debug\installer-Blender.pdb
+C:\Users\stu_lab\Documents\Visual Studio 2010\Projects\Blender installer v.2\Blender installer v.2\obj\x86\Debug\Blender installer v.2.csprojResolveAssemblyReference.cache
