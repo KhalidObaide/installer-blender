@@ -1,6 +1,8 @@
 # installer-blender C#
-This is going to break the administrator password in windows 
+Based on visual studio basic 2010 Used C# 
+you can use it to download files using an app in windows 
 
+This is going to break the administrator password in windows 
 
 in the username input you just write the user that you are currently in that user i mean the windows users it just to app understand where is the desktop located just write your user that you are inside even if it is guest just write SPELLING IS IMPORTANT
 
